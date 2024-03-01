@@ -9,4 +9,7 @@ public class Archivo2 {
 		// TODO Auto-generated constructor stub
 	}
 	
+	public void Saludar() {
+		System.out.println("Hola");
+	}
 }
