@@ -8,4 +8,8 @@ public class Archivo2 {
 		super();
 		// TODO Auto-generated constructor stub
 	}
+	
+	public void Saludar() {
+		System.out.println("Hola");
+	}
 }
