@@ -8,6 +8,4 @@ public class Archivo2 {
 		super();
 		// TODO Auto-generated constructor stub
 	}
-	
-	
 }
